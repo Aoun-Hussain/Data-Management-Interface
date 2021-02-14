@@ -1,0 +1,1 @@
+This Data Management Interface was used in a research project on water availability in Pakistan. The project was funded by Higher Education Commision (HEC) Pakistan. The interface is built on Python using Object Oriented Programming and manages data sent from multiple water flowmeters through a GSM protocol using SIM800C GSM modules for sending and receiving water readings.
